@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+WRITE DITO "THIS BELONGS TO (YOUR NAME)"
 
 You can use the [editor on GitHub](https://github.com/EstaresAal/nuts-of-deez/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
